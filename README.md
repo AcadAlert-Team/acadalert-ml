@@ -3,7 +3,7 @@
 This repository contains the Python FastAPI inference server for the **AcadAlert** digital twin ecosystem. 
 
 **This is a sub-repository.** For the full system architecture, live demo video, and frontend React Native code, please visit the main repository:
-👉 **[INSERT LINK TO YOUR MOBILE REPO HERE]**
+👉 **[LINK TO MOBILE REPO HERE](https://github.com/AcadAlert-Team/acadalert-mobile)**
 
 ### 🏗️ Microservice Responsibilities
 * **Risk Assessment Engine:** Ingests live telemetry (attendance velocity, historical backlogs, assignment scores) from the core Node.js backend.
